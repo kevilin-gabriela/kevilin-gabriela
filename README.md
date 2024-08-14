@@ -3,6 +3,7 @@ eu me chamo kevilin gabriela
 boas vindas ao meu perfil
 .estou estudando na alura
 .esse perfil sera usado para guardar os meus projetos
+projeto novo desenhando com bolinha
 
 <!--
 **kevilin-gabriela/kevilin-gabriela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
